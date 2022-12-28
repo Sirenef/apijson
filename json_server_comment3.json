@@ -8,6 +8,24 @@
             "title": "Toan Nguyen",
             "ava":"./img/ava.jpg",
             "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+        },
+          {
+            "userId": 3,
+            "id": 2,
+            "ParentUser":2,
+            "ParentID":1,
+            "title": "Nam Nguyen",
+            "ava":"./img/ava.jpg",
+            "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+        },
+          {
+            "userId": 3,
+            "id": 3,
+            "ParentUser":2,
+            "ParentID":1,
+            "title": "A Nguyen",
+            "ava":"./img/ava.jpg",
+            "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
         }
   ]
 }
