@@ -197,60 +197,6 @@
             "title": "14",
             "ava":"./img/ava.jpg",
             "body": "Anh Ngu"
-        },
-        {
-            "userId": 2,
-            "id": 16,
-            "ParentUser":1,
-            "ParentID":1,
-            "title": "15",
-            "ava":"./img/ava.jpg",
-            "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-        },
-        {
-            "userId": 2,
-            "id": 17,
-            "ParentUser":1,
-            "ParentID":1,
-            "title": "16",
-            "ava":"./img/ava.jpg",
-            "body": "et iusto sed quo iure\nvoluptatem ocscaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-        },
-        {
-            "userId": 2,
-            "id": 18,
-            "ParentUser":1,
-            "ParentID":1,
-            "title": "17",
-            "ava":"./img/ava.jpg",
-            "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-        },
-        {
-            "userId": 2,
-            "id": 19,
-            "ParentUser":1,
-            "ParentID":1,
-            "title": "18",
-            "ava":"./img/ava.jpg",
-            "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-        },
-        {
-            "userId": 2,
-            "id": 20,
-            "ParentUser":1,
-            "ParentID":1,
-            "title": "19",
-            "ava":"./img/ava.jpg",
-            "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-        },
-         {
-            "userId": 2,
-            "id": 21,
-            "ParentUser":1,
-            "ParentID":1,
-            "title": "20",
-            "ava":"./img/ava.jpg",
-            "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
         }
   ]
 }
